@@ -6,7 +6,15 @@
 		<div class="flex flex-col items-center">
 			<?= VITE_NAME; ?>
 
-			<div>+</div>
+			<HTML.Element
+				element="div"
+				data-info="Dynamic Element"
+				...="<?= [
+							'data-info2' => 'with spreaded props',
+							'class' => '-mt-2 text-5xl leading-none font-light',
+						]; ?>">
+				+
+			</HTML.Element>
 
 			<img src="%BASE%/logo.svg" class="w-20" />
 		</div>
