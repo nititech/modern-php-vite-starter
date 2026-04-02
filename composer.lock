@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "20b0086b6beab3cf516264f55f2667f1",
+    "content-hash": "5eda33f5beac6f7acca223a582e1dde5",
     "packages": [
         {
             "name": "nikic/fast-route",
@@ -58,16 +58,16 @@
         },
         {
             "name": "nititech/html-components",
-            "version": "v1.0.0",
+            "version": "v2.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/donnikitos/php-html-components.git",
-                "reference": "d2b5eb4f37770e9418ed2bb85cc766775c68df63"
+                "reference": "3d9eee7eb46b71b7d9bd1a2fd49fb318bed5b999"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/donnikitos/php-html-components/zipball/d2b5eb4f37770e9418ed2bb85cc766775c68df63",
-                "reference": "d2b5eb4f37770e9418ed2bb85cc766775c68df63",
+                "url": "https://api.github.com/repos/donnikitos/php-html-components/zipball/3d9eee7eb46b71b7d9bd1a2fd49fb318bed5b999",
+                "reference": "3d9eee7eb46b71b7d9bd1a2fd49fb318bed5b999",
                 "shasum": ""
             },
             "require": {
@@ -90,7 +90,7 @@
                     "role": "Developer"
                 }
             ],
-            "description": "Create intuitive, reusable HTML components",
+            "description": "Write intuitive, reusable, class based HTML components",
             "homepage": "https://github.com/donnikitos/php-html-components",
             "keywords": [
                 "PHP-components",
@@ -101,9 +101,9 @@
             ],
             "support": {
                 "issues": "https://github.com/donnikitos/php-html-components/issues",
-                "source": "https://github.com/donnikitos/php-html-components/tree/v1.0.0"
+                "source": "https://github.com/donnikitos/php-html-components/tree/v2.0.1"
             },
-            "time": "2025-05-11T12:44:01+00:00"
+            "time": "2026-03-31T12:36:22+00:00"
         }
     ],
     "packages-dev": [],
