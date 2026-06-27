@@ -1,6 +1,6 @@
 {
 	"name": "modern-php-vite-starter",
-	"description": "An even modern vanilla PHP-Vite starter repo, utilizing vite-plugin-php and with enabled PHP-Components",
+	"description": "A modern vanilla PHP-Vite starter repo, utilizing vite-plugin-php and with enabled PHP-Components",
 	"version": "1.0.0",
 	"type": "module",
 	"scripts": {
@@ -56,7 +56,7 @@
 		"vite": "^8.0.3",
 		"vite-imagetools": "^9.0.0",
 		"vite-plugin-ejs": "^1.7.0",
-		"vite-plugin-php": "^3.0.0-beta.4",
+		"vite-plugin-php": "^3.0.0-beta.5",
 		"vite-plugin-php-components": "^0.1.1",
 		"vite-plugin-static-copy": "^3.1.4",
 		"vite-plugin-svgr": "^4.5.0",
